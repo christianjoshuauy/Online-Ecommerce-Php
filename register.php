@@ -39,7 +39,7 @@ mysqli_close($conn);
 </head>
 <body>
 	<div class="container">
-		<h1>Register New Seller</h1>
+		<h1>Online Ecommerce System</h1>
 		<nav>
 			<ul>
 				<li><a href="index.php">Home</a></li>
@@ -68,5 +68,6 @@ mysqli_close($conn);
 			<button type="submit">Register</button>
 		</form>
 	</div>
+	<footer>Christian Joshua Uy BSCS-2 F2</footer>
 </body>
 </html>
